@@ -1,4 +1,4 @@
-# Readme
+# Resistance Band Calibration
 
 Values for weights = mean of the range of values selected manually by observation from data cursor in MATLAB
 
@@ -18,6 +18,6 @@ Weight of a book ~320g
 
 ## Files
 
-`test[1-5].mat` - cumulative raw data for the tests.
-`final.mat` - all data with manual selected regions
-`DataProcessing.mat` - code to plot the data.
+- `test[1-5].mat` - cumulative raw data for the tests.
+- `final.mat` - all data with manual selected regions
+- `DataProcessing.mat` - code to plot the data.
